@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 22cfc84df11beae43bf2544675af687a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hittuujou2: {fileID: 8300000, guid: de82e0b88b30b6941855f080e170bd51, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
